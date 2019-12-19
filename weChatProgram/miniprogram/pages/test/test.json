@@ -1,0 +1,8 @@
+{
+  "component":true,
+  "usingComponents": {
+    "i-panel": "../../static/iview/dist/panel/index",
+    "i-input": "../../static/iview/dist/input/index"
+  }
+  
+}

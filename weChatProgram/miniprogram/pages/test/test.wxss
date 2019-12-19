@@ -1,0 +1,4 @@
+/* miniprogram/pages/test/test.wxss */
+.btn{
+  line-height: 34px!important;
+}
